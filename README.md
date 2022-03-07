@@ -1,4 +1,4 @@
-# PROC110-V1-actividad-maestra5
+# PROC110-V1-actividad-alumno1
 Introducción al aprendizaje de máquina (ML).  
 Python. Teachable machine. Tensor Flow. Keras.  
   
